@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on any work related to **Data analysis and machine learning**
 - 🤔 I’m looking for help with
 - 💬 Ask me about Data Analysis - **PYTHON** | **SQL** | **EXCELL** |
-- 📫 How to reach me: bakaritungwa22@gmail.com
+- 📫 How to reach me: bakaritungwa22@gmail.com,  https:/bakaritungwa.42web.io
   
 - ⚡ Fun fact: I love **inline Skating**
 -->
